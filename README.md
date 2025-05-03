@@ -9,7 +9,7 @@ Lazy:
 
 ```lua
 {
-    'terabyte129/clangd-lua-docs',
+    'terabyte128/clangd-lua-docs',
     config = true,
 }
 ```
